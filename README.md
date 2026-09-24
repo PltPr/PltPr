@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a 5th-year Computer Science student specializing in Cybersecurity, with a focus on backend and full-stack development using the .NET ecosystem.
+I'm a 5th-year Computer Science student specializing in Cybersecurity, focused on backend and full-stack development with the .NET ecosystem and React.
 
 ## 🚀 Projects
 
