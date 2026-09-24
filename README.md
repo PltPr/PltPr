@@ -21,7 +21,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 
 ## 📖 Learning projects
 <a href="https://github.com/PltPr/e-shop2">
-  <img src="./assets/e-shop.svg" width="300" height="142" alt="e-shop">
+  <img src="./assets/e-shop3.svg" width="300" height="142" alt="e-shop">
 </a>
 
 ## 💻 Tech Stack
