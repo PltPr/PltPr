@@ -14,6 +14,11 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 <a href="https://github.com/PltPr/pokerScraper">
   <img src="./assets/PokerOdds.svg" width="410" height="142" alt="CVLens">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PltPr/crypto-service">
+  <img src="./assets/CryptoTrader.svg" width="410" height="142" alt="CryptoTrader">
+</a>
+
 
 ## 💻 Tech Stack
 
