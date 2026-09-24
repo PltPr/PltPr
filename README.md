@@ -1,7 +1,7 @@
 <a href="https://github.com/PltPr/Thesis">
-  <img src="./assets/ItrackCard.svg" width=410  alt="Itrack">
+  <img src="./assets/ItrackCard.svg" width=410 height=142  alt="Itrack">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/PltPr/Thesis">
-  <img src="./assets/ItrackCard.svg" width=410  alt="Itrack">
+  <img src="./assets/ItrackCard.svg" width=410 height=142 alt="Itrack">
 </a>
