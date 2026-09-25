@@ -24,8 +24,8 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
   <img src="./assets/e-shop4.svg" width="260" height="142" alt="e-shop">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/PltPr/e-shop2">
-  <img src="./assets/e-shop4.svg" width="260" height="142" alt="e-shop">
+<a href="https://github.com/PltPr/Finshark">
+  <img src="./assets/FinsharkCard.svg" width="260" height="142" alt="Finshark">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/PltPr/e-shop2">
