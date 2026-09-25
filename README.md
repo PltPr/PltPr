@@ -1,5 +1,5 @@
 <h2>
-  <img src="./assets/icons/me2.svg" width="32" height="32" alt="">
+  <img src="./assets/icons/me3.svg" width="32" height="32" alt="">
   About me
 </h2>
 
