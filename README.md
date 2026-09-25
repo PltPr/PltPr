@@ -1,4 +1,7 @@
-## 👨‍💻 About Me
+<h2>
+  <img src="./assets/icons/me-wh.svg" width="32" height="32" alt="">
+  About me
+</h2>
 
 I'm a 5th-year Computer Science student specializing in Cybersecurity, focused on backend and full-stack development with the .NET ecosystem and React.
 
