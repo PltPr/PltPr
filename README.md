@@ -11,7 +11,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 <a href="https://github.com/PltPr/HR">
   <img src="./assets/CVLens2.svg" width="410" height="142" alt="CVLens">
 </a>
-<a href="https://github.com/PltPr/pokerScraper">
+<a href="https://github.com/PltPr/pokerScrapper">
   <img src="./assets/PokerOdds.svg" width="410" height="142" alt="CVLens">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 </a>
 
 ## 📖 Learning projects
-<a href="https://github.com/PltPr/e-shop2">
+<a href="https://github.com/PltPr/e-shop">
   <img src="./assets/e-shop4.svg" width="260" height="142" alt="e-shop">
 </a>
 &nbsp;&nbsp;
@@ -28,8 +28,8 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
   <img src="./assets/FinsharkCard.svg" width="260" height="142" alt="Finshark">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/PltPr/e-shop2">
-  <img src="./assets/e-shop4.svg" width="260" height="142" alt="e-shop">
+<a href="https://github.com/PltPr/RunGroops">
+  <img src="./assets/RunGroopsCard" width="260" height="142" alt="RunGroops">
 </a>
 
 ## 💻 Tech Stack
