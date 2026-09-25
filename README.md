@@ -3,7 +3,7 @@
   About me
 </h2>
 
-I'm a 5th-year Computer Science student specializing in Cybersecurity, focused on backend and full-stack development with the .NET ecosystem and React.
+I'm a 5th-year Computer Science student with a specialization in Cybersecurity, focused on backend and full-stack development using the .NET ecosystem and React.
 
 <h2>
   <img src="./assets/icons/projects-wh.svg" width="32" height="32" alt="">
