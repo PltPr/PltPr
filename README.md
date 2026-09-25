@@ -29,7 +29,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/PltPr/RunGroops">
-  <img src="./assets/RunGroopsCard" width="260" height="142" alt="RunGroops">
+  <img src="./assets/RunGroopsCard.svg" width="260" height="142" alt="RunGroops">
 </a>
 
 ## 💻 Tech Stack
