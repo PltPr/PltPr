@@ -36,28 +36,49 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 
 ### ⚙️ Backend
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=csharp&logoColor=F0F6FC)
+![.NET](https://img.shields.io/badge/.NET-21262D?style=for-the-badge&logo=dotnet&logoColor=F0F6FC)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-21262D?style=for-the-badge&logo=dotnet&logoColor=F0F6FC)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-21262D?style=for-the-badge&logo=dotnet&logoColor=F0F6FC)
+![Dapper](https://img.shields.io/badge/Dapper-21262D?style=for-the-badge&logo=dotnet&logoColor=F0F6FC)
+![MediatR](https://img.shields.io/badge/MediatR-21262D?style=for-the-badge&logo=dotnet&logoColor=F0F6FC)
+![Swagger](https://img.shields.io/badge/Swagger-21262D?style=for-the-badge&logo=swagger&logoColor=F0F6FC)
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=F0F6FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=for-the-badge&logo=typescript&logoColor=F0F6FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=F0F6FC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-21262D?style=for-the-badge&logo=tailwindcss&logoColor=F0F6FC)
+![HTML5](https://img.shields.io/badge/HTML5-21262D?style=for-the-badge&logo=html5&logoColor=F0F6FC)
+![CSS3](https://img.shields.io/badge/CSS3-21262D?style=for-the-badge&logo=css3&logoColor=F0F6FC)
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=for-the-badge&logo=postgresql&logoColor=F0F6FC)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-21262D?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC)
+![SQLite](https://img.shields.io/badge/SQLite-21262D?style=for-the-badge&logo=sqlite&logoColor=F0F6FC)
 
 ### 🔐 Authentication & APIs
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-21262D?style=for-the-badge&logo=jsonwebtokens&logoColor=F0F6FC)
+![REST API](https://img.shields.io/badge/REST%20API-21262D?style=for-the-badge&logoColor=F0F6FC)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-21262D?style=for-the-badge&logo=openapiinitiative&logoColor=F0F6FC)
 
 ### 🧪 Testing
 
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-21262D?style=for-the-badge&logo=.net&logoColor=F0F6FC)
+![Moq](https://img.shields.io/badge/Moq-21262D?style=for-the-badge&logo=.net&logoColor=F0F6FC)
 
 ### ☁️ Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=F0F6FC)
+![AWS](https://img.shields.io/badge/AWS-21262D?style=for-the-badge&logo=amazonaws&logoColor=F0F6FC)
+![Azure](https://img.shields.io/badge/Azure-21262D?style=for-the-badge&logo=microsoftazure&logoColor=F0F6FC)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-21262D?style=for-the-badge&logo=azurepipelines&logoColor=F0F6FC)
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=F0F6FC)
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC)
+![Postman](https://img.shields.io/badge/Postman-21262D?style=for-the-badge&logo=postman&logoColor=F0F6FC)
