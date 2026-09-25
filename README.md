@@ -32,6 +32,11 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
   <img src="./assets/RunGroopsCard.svg" width="260" height="142" alt="RunGroops">
 </a>
 
+## Currently working at
+<a href="https://github.com/PltPr/SmartHomeSimulation">
+  <img src="./assets/SmartHomeCard.svg" width="410" height="142" alt="SmartHomeSimulation">
+</a>
+
 ## 💻 Tech Stack
 
 ### ⚙️ Backend
