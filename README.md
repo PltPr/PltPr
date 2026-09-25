@@ -55,7 +55,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 </a>
 
 <h2>
-  <img src="./assets/icons/computer-wh.svg" width="32" height="32" alt="">
+  <img src="./assets/icons/computer-wh2.svg" width="32" height="32" alt="">
   Tech stack
 </h2>
 
