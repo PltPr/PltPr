@@ -36,6 +36,10 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 <a href="https://github.com/PltPr/SmartHomeSimulation">
   <img src="./assets/SmartHomeCard.svg" width="410" height="142" alt="SmartHomeSimulation">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PltPr/reacttutorial">
+  <img src="./assets/ReactCourseCard.svg" width="260" height="142" alt="ReactCourseCard">
+</a>
 
 ## 💻 Tech Stack
 
