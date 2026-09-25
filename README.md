@@ -23,7 +23,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 </a>
 
 <h2>
-  <img src="./assets/icons/learning-wh.svg" width="42" height="32" alt="">
+  <img src="./assets/icons/learning-wh.svg" width="42" height="42" alt="">
   Learning Projects
 </h2>
 
