@@ -2,7 +2,10 @@
 
 I'm a 5th-year Computer Science student specializing in Cybersecurity, focused on backend and full-stack development with the .NET ecosystem and React.
 
-## 🚀 Projects
+<h2>
+  <img src="./assets/icons/projects-wh.svg" width="32" height="32" alt="">
+  Projects
+</h2>
 
 <a href="https://github.com/PltPr/Thesis">
   <img src="./assets/ItrackCard8.svg" width="410" height="142" alt="Itrack">
@@ -20,7 +23,7 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
 </a>
 
 <h2>
-  <img src="./assets/icons/learning-wh.svg" width="32" height="32" alt="" style="vertical-align: -6px">
+  <img src="./assets/icons/learning-wh.svg" width="32" height="32" alt="">
   Learning Projects
 </h2>
 
@@ -36,7 +39,10 @@ I'm a 5th-year Computer Science student specializing in Cybersecurity, focused o
   <img src="./assets/RunGroopsCard.svg" width="260" height="142" alt="RunGroops">
 </a>
 
-## Currently working at
+<h2>
+  <img src="./assets/icons/currently-wh.svg" width="32" height="32" alt="">
+  Currently working at
+</h2>
 <a href="https://github.com/PltPr/SmartHomeSimulation">
   <img src="./assets/SmartHomeCard.svg" width="410" height="142" alt="SmartHomeSimulation">
 </a>
